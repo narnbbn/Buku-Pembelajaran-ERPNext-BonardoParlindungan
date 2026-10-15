@@ -1,0 +1,17 @@
+Tahap_Siklus,No_Dokumen,Tipe_Dokumen,Pihak_Terkait,Kode_Item,Nama_Item,Qty,Satuan,Harga_Satuan_IDR,Total_Nilai_IDR,Gudang_Asal,Gudang_Tujuan,Status_Akhir
+1. Pengadaan,PO-001,Purchase Order,PT Kayu Lestari Abadi,RM-KY-001,Balok Kayu Mahoni 5x7x100,250,Nos,20000,5000000,-,Gudang Bahan Baku,Submitted
+1. Pengadaan,PO-001,Purchase Order,PT Kayu Lestari Abadi,RM-KY-002,Papan Kayu Olahan 60x120,25,Nos,75000,1875000,-,Gudang Bahan Baku,Submitted
+1. Pengadaan,PO-002,Purchase Order,CV Baja Presisi Logam,RM-BS-001,Rangka Penyangga Besi,150,Nos,30000,4500000,-,Gudang Bahan Baku,Submitted
+1. Pengadaan,PO-002,Purchase Order,CV Baja Presisi Logam,RM-BT-001,Baut & Mur Hex M6,700,Nos,1000,700000,-,Gudang Bahan Baku,Submitted
+1. Pengadaan,PO-003,Purchase Order,Toko Sentosa Kimia,RM-CT-001,Cat Vernis Pelitur Kayu,25,Liter,45000,1125000,-,Gudang Bahan Baku,Submitted
+1. Pengadaan,PO-003,Purchase Order,Toko Sentosa Kimia,RM-BS-002,Bantalan Dudukan Busa,60,Nos,15000,900000,-,Gudang Bahan Baku,Submitted
+2. Produksi,WO-001,Work Order,Internal Pabrik,FG-KD-001,Kursi Belajar Kayu Dodoo,25,Nos,194917,4872925,Gudang Bahan Baku,Gudang Barang Jadi,Completed
+2. Produksi,STE-001,Material Transfer,Internal Pabrik,RM-KY-001,Balok Kayu Mahoni 5x7x100,100,Nos,20000,2000000,Gudang Bahan Baku,Gudang Barang Dalam Proses,Submitted
+2. Produksi,STE-001,Material Transfer,Internal Pabrik,RM-BS-001,Rangka Penyangga Besi,50,Nos,30000,1500000,Gudang Bahan Baku,Gudang Barang Dalam Proses,Submitted
+2. Produksi,STE-001,Material Transfer,Internal Pabrik,RM-BT-001,Baut & Mur Hex M6,200,Nos,1000,200000,Gudang Bahan Baku,Gudang Barang Dalam Proses,Submitted
+2. Produksi,STE-001,Material Transfer,Internal Pabrik,RM-CT-001,Cat Vernis Pelitur Kayu,5,Liter,45000,225000,Gudang Bahan Baku,Gudang Barang Dalam Proses,Submitted
+2. Produksi,STE-001,Material Transfer,Internal Pabrik,RM-BS-002,Bantalan Dudukan Busa,25,Nos,15000,375000,Gudang Bahan Baku,Gudang Barang Dalam Proses,Submitted
+2. Produksi,STE-002,Manufacture,Internal Pabrik,FG-KD-001,Kursi Belajar Kayu Dodoo,25,Nos,194917,4872925,Gudang Barang Dalam Proses,Gudang Barang Jadi,Submitted
+3. Penjualan,SO-001,Sales Order,Yayasan Sekolah Bintang Cerdas,FG-KD-001,Kursi Belajar Kayu Dodoo,20,Nos,250000,5000000,Gudang Barang Jadi,-,Completed
+3. Penjualan,DN-001,Delivery Note,Yayasan Sekolah Bintang Cerdas,FG-KD-001,Kursi Belajar Kayu Dodoo,20,Nos,250000,5000000,Gudang Barang Jadi,-,Submitted
+3. Penjualan,SINV-001,Sales Invoice,Yayasan Sekolah Bintang Cerdas,FG-KD-001,Kursi Belajar Kayu Dodoo,20,Nos,250000,5000000,Gudang Barang Jadi,-,Paid

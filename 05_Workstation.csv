@@ -1,0 +1,5 @@
+workstation_name,hour_rate,hour_rate_labour,hour_rate_electricity,hour_rate_rent,description
+WS-01 Stasiun Pemotongan & Sanding,25000,15000,5000,5000,Area mesin pemotong gergaji dan mesin amplas kayu
+WS-02 Meja Perakitan Dodoo,20000,15000,2000,3000,Meja kerja perakitan rangka besi dengan kayu menggunakan bor obeng
+WS-03 Ruang Finishing & Spray Cat,30000,15000,5000,10000,Bilik khusus spray cat vernis anti debu dengan blower ventilasi
+WS-04 Area QC & Packing,15000,12000,1000,2000,Area pemeriksaan dimensi kualitas dan pengemasan kardus karton

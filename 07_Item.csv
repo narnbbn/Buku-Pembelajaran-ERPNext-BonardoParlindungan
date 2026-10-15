@@ -1,0 +1,9 @@
+item_code,item_name,item_group,stock_uom,is_stock_item,is_purchase_item,is_sales_item,valuation_rate,standard_rate,description
+FG-KD-001,Kursi Belajar Kayu Dodoo,Finished Goods,Nos,1,0,1,165000,250000,Kursi belajar ergonomis kayu mahoni rangka besi kokoh tahan lama
+FG-MD-001,Meja Belajar Dodoo Simple,Finished Goods,Nos,1,0,1,280000,425000,Meja belajar minimalis papan kayu olahan rangka besi kokoh
+RM-KY-001,Balok Kayu Mahoni 5x7x100,Raw Material,Nos,1,1,0,20000,0,Bahan baku kayu mahoni solid ukuran 5x7x100cm kering oven
+RM-KY-002,Papan Kayu Olahan 60x120,Raw Material,Nos,1,1,0,75000,0,Papan kayu presisi laminasi ukuran 60x120cm tebal 18mm
+RM-BS-001,Rangka Penyangga Besi,Raw Material,Nos,1,1,0,30000,0,Pipa besi hollow powder coated anti karat
+RM-BT-001,Baut & Mur Hex M6,Raw Material,Nos,1,1,0,1000,0,Baut dan mur baja galvanis ukuran M6
+RM-CT-001,Cat Vernis Pelitur Kayu,Raw Material,Liter,1,1,0,45000,0,Cat pelitur kayu transparan glossy ramah lingkungan
+RM-BS-002,Bantalan Dudukan Busa,Raw Material,Nos,1,1,0,15000,0,Busa density tinggi dilapisi kain kanvas abu-abu

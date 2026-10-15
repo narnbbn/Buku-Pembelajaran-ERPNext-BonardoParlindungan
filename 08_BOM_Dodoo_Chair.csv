@@ -1,0 +1,13 @@
+parent_item,parent_item_name,bom_qty,component_type,code,name_or_operation,workstation,qty_or_time_mins,uom,unit_rate,total_cost
+FG-KD-001,Kursi Belajar Kayu Dodoo,1,Material,RM-KY-001,Balok Kayu Mahoni 5x7x100,,4,Nos,20000,80000
+FG-KD-001,Kursi Belajar Kayu Dodoo,1,Material,RM-BS-001,Rangka Penyangga Besi,,2,Nos,30000,60000
+FG-KD-001,Kursi Belajar Kayu Dodoo,1,Material,RM-BT-001,Baut & Mur Hex M6,,8,Nos,1000,8000
+FG-KD-001,Kursi Belajar Kayu Dodoo,1,Material,RM-CT-001,Cat Vernis Pelitur Kayu,,0.2,Liter,45000,9000
+FG-KD-001,Kursi Belajar Kayu Dodoo,1,Material,RM-BS-002,Bantalan Dudukan Busa,,1,Nos,15000,15000
+FG-KD-001,Kursi Belajar Kayu Dodoo,1,Operation,OP-CUTTING,Pemotongan Kayu Mahoni,WS-01 Stasiun Pemotongan & Sanding,15,Mins,416.67,6250
+FG-KD-001,Kursi Belajar Kayu Dodoo,1,Operation,OP-ASSEMBLY,Perakitan Rangka & Dudukan,WS-02 Meja Perakitan Dodoo,20,Mins,333.33,6667
+FG-KD-001,Kursi Belajar Kayu Dodoo,1,Operation,OP-FINISHING,Pengecatan Vernis Spray,WS-03 Ruang Finishing & Spray Cat,15,Mins,500.00,7500
+FG-KD-001,Kursi Belajar Kayu Dodoo,1,Operation,OP-PACKING,Quality Control & Box Packaging,WS-04 Area QC & Packing,10,Mins,250.00,2500
+,,,,,,,,Total Raw Material Cost,,172000
+,,,,,,,,Total Operating Cost,,22917
+,,,,,,,,Total Estimated Production Cost (HPP),,194917

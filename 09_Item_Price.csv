@@ -1,0 +1,9 @@
+item_code,price_list,price_list_rate,currency,buying,selling
+FG-KD-001,Standard Selling,250000,IDR,0,1
+FG-MD-001,Standard Selling,425000,IDR,0,1
+RM-KY-001,Standard Buying,20000,IDR,1,0
+RM-KY-002,Standard Buying,75000,IDR,1,0
+RM-BS-001,Standard Buying,30000,IDR,1,0
+RM-BT-001,Standard Buying,1000,IDR,1,0
+RM-CT-001,Standard Buying,45000,IDR,1,0
+RM-BS-002,Standard Buying,15000,IDR,1,0

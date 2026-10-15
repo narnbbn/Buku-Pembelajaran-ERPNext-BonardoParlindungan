@@ -1,0 +1,5 @@
+operation,workstation,description
+OP-CUTTING,WS-01 Stasiun Pemotongan & Sanding,Pemotongan dan penghalusan balok kayu mahoni dan papan kayu
+OP-ASSEMBLY,WS-02 Meja Perakitan Dodoo,Perakitan struktur rangka besi dan kayu dengan penguncian baut hex M6
+OP-FINISHING,WS-03 Ruang Finishing & Spray Cat,Pengecatan spray vernis pelitur kayu dan proses pengeringan
+OP-PACKING,WS-04 Area QC & Packing,Pemeriksaan akhir cacat visual dan pengemasan ke dalam dus karton

@@ -1,0 +1,4 @@
+warehouse_name,parent_warehouse,is_group,warehouse_type
+Gudang Bahan Baku,All Warehouses,0,Stores
+Gudang Barang Dalam Proses,All Warehouses,0,Work In Progress
+Gudang Barang Jadi,All Warehouses,0,Finished Goods
